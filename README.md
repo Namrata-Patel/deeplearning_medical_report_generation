@@ -12,5 +12,7 @@ Below is the architecture diagram of the proposed model:
 ![Architecture Diagram](https://github.com/Namrata-Patel/deeplearning_medical_report_generation/blob/main/figs/arch.png)
 
 
-#### Best Weights for this model are available at: [Google Drive Link]([https://drive.google.com/file/d/1n6C0K-0h2NK95PqOSvoEKcXyE1-w2L-m/view?usp=sharing](https://drive.google.com/file/d/1ClDLBHVsh5Hd3czeo8ZIeneVYfk4M5gA/view?usp=sharing))
+#### Best Weights for this model are available at:
+
+https://drive.google.com/file/d/1ClDLBHVsh5Hd3czeo8ZIeneVYfk4M5gA/view?usp=drive_link
 
